@@ -4,30 +4,30 @@
 
 <br>
 breadcrump: <br> 
-PCsdoLuiso\app\src\main\java\com\example\pcsdoluiso\MainActivity.java -------------> Página inicial
+PCsdoLuiso/app/src/main/java/com/example/pcsdoluiso/MainActivity.java -------------> Página inicial
 <br>
-PCsdoLuiso\app\src\main\java\com\example\pcsdoluiso\Activity_PC_RTX3090.java ----> Página do PC com RTX 3090
+PCsdoLuiso/app/src/main/java/com/example/pcsdoluiso/Activity_PC_RTX3090.java ----> Página do PC com RTX 3090
 <br>
-PCsdoLuiso\app\src\main\java\com\example\pcsdoluiso\Activity_PC_RX6600XT.java ---> Página do PC com RX 6600XT
+PCsdoLuiso/app/src/main/java/com/example/pcsdoluiso/Activity_PC_RX6600XT.java ---> Página do PC com RX 6600XT
 <br>
-PCsdoLuiso\app\src\main\java\com\example\pcsdoluiso\Activity_VerDetRTX.java ------> Página Ver Detalhes do PC com RTX
+PCsdoLuiso/app/src/main/java/com/example/pcsdoluiso/Activity_VerDetRTX.java ------> Página Ver Detalhes do PC com RTX
 <br>
-PCsdoLuiso\app\src\main\java\com\example\pcsdoluiso\Activity_VerDetRX.java -------> Página Ver Detalhes do PC com RX
+PCsdoLuiso/app/src/main/java/com/example/pcsdoluiso/Activity_VerDetRX.java -------> Página Ver Detalhes do PC com RX
 <br><br>
 
 <h3>Como acessar o frontend?</h3>
 
 <br>
 breadcrump: <br>
-PCsdoLuiso\app\src\main\res\layout\activity_main.xml
+PCsdoLuiso/app/src/main/res/layout/activity_main.xml
 <br>
-PCsdoLuiso\app\src\main\res\layout\activity_pc_rtx3090.xml
+PCsdoLuiso/app/src/main/res/layout/activity_pc_rtx3090.xml
 <br>
-PCsdoLuiso\app\src\main\res\layout\activity_pc_rx6600_xt.xml
+PCsdoLuiso/app/src/main/res/layout/activity_pc_rx6600_xt.xml
 <br>
-PCsdoLuiso\app\src\main\res\layout\activity_ver_det_rtx.xml
+PCsdoLuiso/app/src/main/res/layout/activity_ver_det_rtx.xml
 <br>
-PCsdoLuiso\app\src\main\res\layout\activity_ver_det_rx.xml
+PCsdoLuiso/app/src/main/res/layout/activity_ver_det_rx.xml
 <br><br>
 
 <h3>Qual o objetivo deste projeto?</h3>
