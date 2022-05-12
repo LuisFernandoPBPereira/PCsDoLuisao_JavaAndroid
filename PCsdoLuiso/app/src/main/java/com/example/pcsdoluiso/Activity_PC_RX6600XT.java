@@ -22,7 +22,7 @@ public class Activity_PC_RX6600XT extends AppCompatActivity {
         mensagem = (TextView) findViewById(R.id.txtSaudacao);
         Bundle bundle = getIntent().getExtras();
         String email = bundle.getString("email");
-        mensagem.setText("Olá " + email);
+        mensagem.setText("Olá " + email + " veja nossas promoções!");
 
         verDet.setOnClickListener(new View.OnClickListener() {
             @Override

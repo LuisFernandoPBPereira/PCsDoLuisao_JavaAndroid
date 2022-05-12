@@ -11,7 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginStart="1dp"
-        android:layout_marginTop="1dp"
         android:layout_marginEnd="1dp"
         android:layout_marginBottom="1dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -22,18 +21,18 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="706dp"
+                android:layout_height="match_parent"
                 android:background="#454141"
                 tools:context=".Activity_PC_RTX3090">
 
                 <TextView
                     android:id="@+id/txtSaudacao2"
-                    android:layout_width="288dp"
-                    android:layout_height="37dp"
+                    android:layout_width="285dp"
+                    android:layout_height="62dp"
                     android:layout_marginStart="60dp"
                     android:layout_marginTop="27dp"
                     android:textAlignment="center"

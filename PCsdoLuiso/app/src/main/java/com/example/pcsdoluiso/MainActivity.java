@@ -6,10 +6,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
     String email = "luis@gmail.com";
+    public TextView mensagem;
     private Button btnComprarRTX3090, btnComprarRX6600XT;
 
     @Override
@@ -19,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         btnComprarRTX3090 = (Button) findViewById(R.id.btnComprarRTX3090);
         btnComprarRX6600XT = (Button) findViewById(R.id.btnComprarRX6600XT);
+        mensagem = (TextView) findViewById(R.id.txtEmailHome);
+        mensagem.setText("Account: " + email);
 
         btnComprarRTX3090.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -22,7 +22,7 @@ public class Activity_PC_RTX3090 extends AppCompatActivity {
         mensagem = (TextView) findViewById(R.id.txtSaudacao2);
         Bundle bundle = getIntent().getExtras();
         String email = bundle.getString("email");
-        mensagem.setText("Olá " + email);
+        mensagem.setText("Olá " + email + " veja nossas promoções!");
 
         verDet.setOnClickListener(new View.OnClickListener() {
             @Override

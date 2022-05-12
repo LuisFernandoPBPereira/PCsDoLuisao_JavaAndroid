@@ -26,7 +26,7 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="666dp"
+                android:layout_height="715dp"
                 android:background="#454141"
                 tools:context=".Activity_PC_RX6600XT">
 
@@ -80,8 +80,8 @@
 
                 <TextView
                     android:id="@+id/txtSaudacao"
-                    android:layout_width="288dp"
-                    android:layout_height="37dp"
+                    android:layout_width="289dp"
+                    android:layout_height="66dp"
                     android:layout_marginStart="60dp"
                     android:layout_marginTop="27dp"
                     android:textAlignment="center"
